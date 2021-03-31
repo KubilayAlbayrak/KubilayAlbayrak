@@ -10,6 +10,7 @@
 * 🧐   Interested in Frontend / Mobile Development 
 * 🌱   Currently learning React & React Native
 * 🚀   Always ready to collaborate for Dev Experiments
+* 🎯   Personal Goal : Get a Job as a Developer
 * 📝 [Resume](https://drive.google.com/file/d/1NyictCQ1-A2JE3e-BUs4Bv5TVPlORik3/view?usp=sharing)
 
 

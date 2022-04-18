@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kubilay Albayrak</h1>
 
-<h2 align="center" > Frontend / Mobile Developer </h2>
+<h2 align="center" > Frontend Developer </h2>
 
 
 <p align="center" >I'm eager to learn new things, self- motivated, problem solving and result oriented teamplayer </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-* 🧐   Interested in Frontend / Mobile Development 
-* 🌱   Currently learning React & React Native
+* 🧐   Interested in Frontend Development 
 * 🚀   Always ready to collaborate for Dev Experiments
 * 🎯   Personal Goal : Always be better than yesterday
-* 📝 [Resume](https://drive.google.com/file/d/1NyictCQ1-A2JE3e-BUs4Bv5TVPlORik3/view?usp=sharing)
+* 📝 [Resume](https://drive.google.com/file/d/1q4KDm6WNgO94sxi6RlcVjdGKnuVbnuG2/view?usp=sharing)
 
 
 <p align="middle"> <a href="https://twitter.com/kubilayalbyrk" target="blank"><img src="https://img.shields.io/twitter/follow/kubilayalbyrk?logo=twitter&style=for-the-badge" alt="kubilayalbyrk" /></a> </p>
